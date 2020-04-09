@@ -6,7 +6,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Орбита 4"
+        "mini_district_name": "Орбита 4"
       },
       "geometry": {
         "type": "Polygon",
@@ -73,7 +73,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Орбита 3"
+        "mini_district_name": "Орбита 3"
       },
       "geometry": {
         "type": "Polygon",
@@ -132,7 +132,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Орбита 2"
+        "mini_district_name": "Орбита 2"
       },
       "geometry": {
         "type": "Polygon",
@@ -195,7 +195,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Орбита 1"
+        "mini_district_name": "Орбита 1"
       },
       "geometry": {
         "type": "Polygon",
@@ -254,7 +254,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Таугуль 2"
+        "mini_district_name": "Таугуль 2"
       },
       "geometry": {
         "type": "Polygon",
@@ -309,7 +309,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Таугуль 1"
+        "mini_district_name": "Таугуль 1"
       },
       "geometry": {
         "type": "Polygon",
@@ -412,7 +412,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Таугуль"
+        "mini_district_name": "Таугуль"
       },
       "geometry": {
         "type": "Polygon",
@@ -569,7 +569,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Шахристана"
+        "mini_district_name": "Шахристана"
       },
       "geometry": {
         "type": "Polygon",
@@ -612,7 +612,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Саина - Рыскулбекова - Мустафина - Торайгырова"
+        "mini_district_name": "Саина - Рыскулбекова - Мустафина - Торайгырова"
       },
       "geometry": {
         "type": "Polygon",
@@ -779,7 +779,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": 9
+        "mini_district_name": 9
       },
       "geometry": {
         "type": "Polygon",
@@ -858,7 +858,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": 10
+        "mini_district_name": 10
       },
       "geometry": {
         "type": "Polygon",
@@ -925,7 +925,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": 8
+        "mini_district_name": 8
       },
       "geometry": {
         "type": "Polygon",
@@ -1032,7 +1032,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": 7
+        "mini_district_name": 7
       },
       "geometry": {
         "type": "Polygon",
@@ -1123,7 +1123,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "10а"
+        "mini_district_name": "10а"
       },
       "geometry": {
         "type": "Polygon",
@@ -1214,7 +1214,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": 12
+        "mini_district_name": 12
       },
       "geometry": {
         "type": "Polygon",
@@ -1321,7 +1321,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": 6
+        "mini_district_name": 6
       },
       "geometry": {
         "type": "Polygon",
@@ -1440,7 +1440,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": 11
+        "mini_district_name": 11
       },
       "geometry": {
         "type": "Polygon",
@@ -1539,7 +1539,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": 1
+        "mini_district_name": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -1634,7 +1634,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": 2
+        "mini_district_name": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -1737,7 +1737,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": 3
+        "mini_district_name": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -1816,7 +1816,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": 4
+        "mini_district_name": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -1891,7 +1891,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": 5
+        "mini_district_name": 5
       },
       "geometry": {
         "type": "Polygon",
@@ -1950,7 +1950,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Сайран"
+        "mini_district_name": "Сайран"
       },
       "geometry": {
         "type": "Polygon",
@@ -2057,7 +2057,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Коктем1"
+        "mini_district_name": "Коктем1"
       },
       "geometry": {
         "type": "Polygon",
@@ -2180,7 +2180,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Коктем 2"
+        "mini_district_name": "Коктем 2"
       },
       "geometry": {
         "type": "Polygon",
@@ -2243,7 +2243,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Коктем 3"
+        "mini_district_name": "Коктем 3"
       },
       "geometry": {
         "type": "Polygon",
@@ -2338,7 +2338,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Алмагуль"
+        "mini_district_name": "Алмагуль"
       },
       "geometry": {
         "type": "Polygon",
@@ -2417,7 +2417,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Таугуль 3"
+        "mini_district_name": "Таугуль 3"
       },
       "geometry": {
         "type": "Polygon",
@@ -2568,7 +2568,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Мамыр 1"
+        "mini_district_name": "Мамыр 1"
       },
       "geometry": {
         "type": "Polygon",
@@ -2611,7 +2611,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Мамыр 2"
+        "mini_district_name": "Мамыр 2"
       },
       "geometry": {
         "type": "Polygon",
@@ -2646,7 +2646,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Мамыр 3"
+        "mini_district_name": "Мамыр 3"
       },
       "geometry": {
         "type": "Polygon",
@@ -2717,7 +2717,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Мамыр 4"
+        "mini_district_name": "Мамыр 4"
       },
       "geometry": {
         "type": "Polygon",
@@ -2752,7 +2752,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Мамыр 5"
+        "mini_district_name": "Мамыр 5"
       },
       "geometry": {
         "type": "Polygon",
@@ -2799,7 +2799,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Мамыр 6"
+        "mini_district_name": "Мамыр 6"
       },
       "geometry": {
         "type": "Polygon",
@@ -2894,7 +2894,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Жетысу 2"
+        "mini_district_name": "Жетысу 2"
       },
       "geometry": {
         "type": "Polygon",
@@ -3059,7 +3059,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Жетысу 3"
+        "mini_district_name": "Жетысу 3"
       },
       "geometry": {
         "type": "Polygon",
@@ -3154,7 +3154,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Аксай 1"
+        "mini_district_name": "Аксай 1"
       },
       "geometry": {
         "type": "Polygon",
@@ -3257,7 +3257,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Аксай 2"
+        "mini_district_name": "Аксай 2"
       },
       "geometry": {
         "type": "Polygon",
@@ -3304,7 +3304,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Аксай 4"
+        "mini_district_name": "Аксай 4"
       },
       "geometry": {
         "type": "Polygon",
@@ -3367,7 +3367,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Аксай 3"
+        "mini_district_name": "Аксай 3"
       },
       "geometry": {
         "type": "Polygon",
@@ -3418,7 +3418,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Аксай 3а"
+        "mini_district_name": "Аксай 3а"
       },
       "geometry": {
         "type": "Polygon",
@@ -3473,7 +3473,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Мамыр 7"
+        "mini_district_name": "Мамыр 7"
       },
       "geometry": {
         "type": "Polygon",
@@ -3540,7 +3540,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Жетысу 4"
+        "mini_district_name": "Жетысу 4"
       },
       "geometry": {
         "type": "Polygon",
@@ -3595,7 +3595,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Аксай 5"
+        "mini_district_name": "Аксай 5"
       },
       "geometry": {
         "type": "Polygon",
@@ -3650,7 +3650,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Аксай 3Б"
+        "mini_district_name": "Аксай 3Б"
       },
       "geometry": {
         "type": "Polygon",
@@ -3697,7 +3697,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Дружба 1"
+        "mini_district_name": "Дружба 1"
       },
       "geometry": {
         "type": "Polygon",
@@ -3856,7 +3856,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Дружба 2"
+        "mini_district_name": "Дружба 2"
       },
       "geometry": {
         "type": "Polygon",
@@ -3931,7 +3931,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Дружба 3"
+        "mini_district_name": "Дружба 3"
       },
       "geometry": {
         "type": "Polygon",
@@ -4034,7 +4034,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Тастак 1"
+        "mini_district_name": "Тастак 1"
       },
       "geometry": {
         "type": "Polygon",
@@ -4141,7 +4141,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Тастак 3"
+        "mini_district_name": "Тастак 3"
       },
       "geometry": {
         "type": "Polygon",
@@ -4236,7 +4236,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Тастак 1"
+        "mini_district_name": "Тастак 1"
       },
       "geometry": {
         "type": "Polygon",
@@ -4371,7 +4371,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Тастак1/1"
+        "mini_district_name": "Тастак1/1"
       },
       "geometry": {
         "type": "Polygon",
@@ -4506,7 +4506,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Калкаман 2"
+        "mini_district_name": "Калкаман 2"
       },
       "geometry": {
         "type": "Polygon",
@@ -4617,7 +4617,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Калкаман 2/2"
+        "mini_district_name": "Калкаман 2/2"
       },
       "geometry": {
         "type": "Polygon",
@@ -4808,7 +4808,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Калкаман 2/1"
+        "mini_district_name": "Калкаман 2/1"
       },
       "geometry": {
         "type": "Polygon",
@@ -4983,7 +4983,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Алтын-Бесик (в сторону Апорта)"
+        "mini_district_name": "Алтын-Бесик (в сторону Апорта)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5054,7 +5054,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Баянаул (Райымбек за Саина)"
+        "mini_district_name": "Баянаул (Райымбек за Саина)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5101,7 +5101,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Аксай 1а"
+        "mini_district_name": "Аксай 1а"
       },
       "geometry": {
         "type": "Polygon",
@@ -5152,7 +5152,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "рынок Барыс (оптовка)"
+        "mini_district_name": "рынок Барыс (оптовка)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5195,7 +5195,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Розыбакиева -Толе би - Ауэзова - оптовка"
+        "mini_district_name": "Розыбакиева -Толе би - Ауэзова - оптовка"
       },
       "geometry": {
         "type": "Polygon",
@@ -5234,7 +5234,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "склады около оптовки (Ауэзова)"
+        "mini_district_name": "склады около оптовки (Ауэзова)"
       },
       "geometry": {
         "type": "Polygon",
@@ -5281,7 +5281,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Самал 1"
+        "mini_district_name": "Самал 1"
       },
       "geometry": {
         "type": "Polygon",
@@ -5356,7 +5356,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Самал 2"
+        "mini_district_name": "Самал 2"
       },
       "geometry": {
         "type": "Polygon",
@@ -5577,7 +5577,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Керемет"
+        "mini_district_name": "Керемет"
       },
       "geometry": {
         "type": "Polygon",
@@ -5696,7 +5696,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Зердели"
+        "mini_district_name": "Зердели"
       },
       "geometry": {
         "type": "Polygon",
@@ -5799,7 +5799,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Акбулак"
+        "mini_district_name": "Акбулак"
       },
       "geometry": {
         "type": "Polygon",
@@ -6022,7 +6022,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Нуркет (Almaty Arena)"
+        "mini_district_name": "Нуркет (Almaty Arena)"
       },
       "geometry": {
         "type": "Polygon",
@@ -6097,7 +6097,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Жулдыз 1"
+        "mini_district_name": "Жулдыз 1"
       },
       "geometry": {
         "type": "Polygon",
@@ -6184,7 +6184,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Жулдыз 2"
+        "mini_district_name": "Жулдыз 2"
       },
       "geometry": {
         "type": "Polygon",
@@ -6291,7 +6291,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Алтай 1"
+        "mini_district_name": "Алтай 1"
       },
       "geometry": {
         "type": "Polygon",
@@ -6374,7 +6374,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Алтай 2"
+        "mini_district_name": "Алтай 2"
       },
       "geometry": {
         "type": "Polygon",
@@ -6501,7 +6501,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Аэропорт"
+        "mini_district_name": "Аэропорт"
       },
       "geometry": {
         "type": "Polygon",
@@ -6564,7 +6564,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Нуршашкан (аэропорт)"
+        "mini_district_name": "Нуршашкан (аэропорт)"
       },
       "geometry": {
         "type": "Polygon",
@@ -6615,7 +6615,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Маяк"
+        "mini_district_name": "Маяк"
       },
       "geometry": {
         "type": "Polygon",
@@ -6718,7 +6718,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "ЧС ВАЗ правая сторона в сторону аэропорта"
+        "mini_district_name": "ЧС ВАЗ правая сторона в сторону аэропорта"
       },
       "geometry": {
         "type": "Polygon",
@@ -6865,7 +6865,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "ЧС ВАЗовское кольцо левая сторона"
+        "mini_district_name": "ЧС ВАЗовское кольцо левая сторона"
       },
       "geometry": {
         "type": "Polygon",
@@ -7048,7 +7048,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Жас Канат (Майлина)"
+        "mini_district_name": "Жас Канат (Майлина)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7147,7 +7147,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Айша-Биби"
+        "mini_district_name": "Айша-Биби"
       },
       "geometry": {
         "type": "Polygon",
@@ -7218,7 +7218,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Кайрат (Рыскулова-Кульжинка)"
+        "mini_district_name": "Кайрат (Рыскулова-Кульжинка)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7365,7 +7365,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Жана Кайрат (Кульжинка)"
+        "mini_district_name": "Жана Кайрат (Кульжинка)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7512,7 +7512,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "ЧС Шемякина - Суюнбая"
+        "mini_district_name": "ЧС Шемякина - Суюнбая"
       },
       "geometry": {
         "type": "Polygon",
@@ -7651,7 +7651,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "ЧС (Суюнбая-Шемякина-Рыскулова)"
+        "mini_district_name": "ЧС (Суюнбая-Шемякина-Рыскулова)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7762,7 +7762,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Гульдала"
+        "mini_district_name": "Гульдала"
       },
       "geometry": {
         "type": "Polygon",
@@ -7833,7 +7833,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Кызылту-1 /Альмерек"
+        "mini_district_name": "Кызылту-1 /Альмерек"
       },
       "geometry": {
         "type": "Polygon",
@@ -7872,7 +7872,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Карасу 1 (ГРЭС)"
+        "mini_district_name": "Карасу 1 (ГРЭС)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7919,7 +7919,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Карасу 2"
+        "mini_district_name": "Карасу 2"
       },
       "geometry": {
         "type": "Polygon",
@@ -7970,7 +7970,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Жана Куат/Отеген Батыра/ГРЭС"
+        "mini_district_name": "Жана Куат/Отеген Батыра/ГРЭС"
       },
       "geometry": {
         "type": "Polygon",
@@ -8065,7 +8065,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Отеген Батыра/ ГРЭС"
+        "mini_district_name": "Отеген Батыра/ ГРЭС"
       },
       "geometry": {
         "type": "Polygon",
@@ -8184,7 +8184,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Покровка (перед ГРЭС)"
+        "mini_district_name": "Покровка (перед ГРЭС)"
       },
       "geometry": {
         "type": "Polygon",
@@ -8247,7 +8247,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Гагарино (перед Покровкой)"
+        "mini_district_name": "Гагарино (перед Покровкой)"
       },
       "geometry": {
         "type": "Polygon",
@@ -8314,7 +8314,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "слева от Покровки (ГРЭС)"
+        "mini_district_name": "слева от Покровки (ГРЭС)"
       },
       "geometry": {
         "type": "Polygon",
@@ -8385,7 +8385,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Нижняя Пятилетка"
+        "mini_district_name": "Нижняя Пятилетка"
       },
       "geometry": {
         "type": "Polygon",
@@ -8516,7 +8516,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Верхняя Пятилетка"
+        "mini_district_name": "Верхняя Пятилетка"
       },
       "geometry": {
         "type": "Polygon",
@@ -8659,7 +8659,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "ж/д Алматы 1"
+        "mini_district_name": "ж/д Алматы 1"
       },
       "geometry": {
         "type": "Polygon",
@@ -8726,7 +8726,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "стадион Алаш (низ города)"
+        "mini_district_name": "стадион Алаш (низ города)"
       },
       "geometry": {
         "type": "Polygon",
@@ -8801,7 +8801,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Кулагер"
+        "mini_district_name": "Кулагер"
       },
       "geometry": {
         "type": "Polygon",
@@ -8868,7 +8868,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Ленинская Смена/Акан Серы"
+        "mini_district_name": "Ленинская Смена/Акан Серы"
       },
       "geometry": {
         "type": "Polygon",
@@ -9057,7 +9057,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Ленинская смена/Акан Серы верхняя часть"
+        "mini_district_name": "Ленинская смена/Акан Серы верхняя часть"
       },
       "geometry": {
         "type": "Polygon",
@@ -9346,7 +9346,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "село Ынтымак"
+        "mini_district_name": "село Ынтымак"
       },
       "geometry": {
         "type": "Polygon",
@@ -9405,7 +9405,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "село Коянкус"
+        "mini_district_name": "село Коянкус"
       },
       "geometry": {
         "type": "Polygon",
@@ -9738,7 +9738,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Первомайка"
+        "mini_district_name": "Первомайка"
       },
       "geometry": {
         "type": "Polygon",
@@ -9829,7 +9829,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Айнабулак 1"
+        "mini_district_name": "Айнабулак 1"
       },
       "geometry": {
         "type": "Polygon",
@@ -9884,7 +9884,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Айнабулак 2"
+        "mini_district_name": "Айнабулак 2"
       },
       "geometry": {
         "type": "Polygon",
@@ -9951,7 +9951,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Айнабулак 4"
+        "mini_district_name": "Айнабулак 4"
       },
       "geometry": {
         "type": "Polygon",
@@ -10046,7 +10046,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Айнабулак 3"
+        "mini_district_name": "Айнабулак 3"
       },
       "geometry": {
         "type": "Polygon",
@@ -10185,7 +10185,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Сейфуллина ниже Рыскулова"
+        "mini_district_name": "Сейфуллина ниже Рыскулова"
       },
       "geometry": {
         "type": "Polygon",
@@ -10320,7 +10320,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Белинского ниже Рыскулова"
+        "mini_district_name": "Белинского ниже Рыскулова"
       },
       "geometry": {
         "type": "Polygon",
@@ -10455,7 +10455,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Ипподром Кулагер"
+        "mini_district_name": "Ипподром Кулагер"
       },
       "geometry": {
         "type": "Polygon",
@@ -10538,7 +10538,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Дархан"
+        "mini_district_name": "Дархан"
       },
       "geometry": {
         "type": "Polygon",
@@ -10661,7 +10661,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Байбесик"
+        "mini_district_name": "Байбесик"
       },
       "geometry": {
         "type": "Polygon",
@@ -10868,7 +10868,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Карасу (низ)"
+        "mini_district_name": "Карасу (низ)"
       },
       "geometry": {
         "type": "Polygon",
@@ -10955,7 +10955,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Белинского ниже ипподрома"
+        "mini_district_name": "Белинского ниже ипподрома"
       },
       "geometry": {
         "type": "Polygon",
@@ -11046,7 +11046,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Бурундайская - Северное кольцо - выезд на Капчагай"
+        "mini_district_name": "Бурундайская - Северное кольцо - выезд на Капчагай"
       },
       "geometry": {
         "type": "Polygon",
@@ -11193,7 +11193,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Ожет/Ужет"
+        "mini_district_name": "Ожет/Ужет"
       },
       "geometry": {
         "type": "Polygon",
@@ -11380,7 +11380,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Дорожник"
+        "mini_district_name": "Дорожник"
       },
       "geometry": {
         "type": "Polygon",
@@ -11491,7 +11491,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Шапагат (Барахолка)"
+        "mini_district_name": "Шапагат (Барахолка)"
       },
       "geometry": {
         "type": "Polygon",
@@ -11650,7 +11650,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Улжан 2"
+        "mini_district_name": "Улжан 2"
       },
       "geometry": {
         "type": "Polygon",
@@ -11829,7 +11829,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Улжан 1"
+        "mini_district_name": "Улжан 1"
       },
       "geometry": {
         "type": "Polygon",
@@ -12180,7 +12180,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Курылысши "
+        "mini_district_name": "Курылысши "
       },
       "geometry": {
         "type": "Polygon",
@@ -12235,7 +12235,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Самгау"
+        "mini_district_name": "Самгау"
       },
       "geometry": {
         "type": "Polygon",
@@ -12306,7 +12306,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Саялы"
+        "mini_district_name": "Саялы"
       },
       "geometry": {
         "type": "Polygon",
@@ -12513,7 +12513,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Томирис"
+        "mini_district_name": "Томирис"
       },
       "geometry": {
         "type": "Polygon",
@@ -13188,7 +13188,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Кок-Кайнар"
+        "mini_district_name": "Кок-Кайнар"
       },
       "geometry": {
         "type": "Polygon",
@@ -13367,7 +13367,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Боролдай"
+        "mini_district_name": "Боролдай"
       },
       "geometry": {
         "type": "Polygon",
@@ -13514,7 +13514,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Боролдай"
+        "mini_district_name": "Боролдай"
       },
       "geometry": {
         "type": "Polygon",
@@ -13769,7 +13769,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Спецгородок"
+        "mini_district_name": "Спецгородок"
       },
       "geometry": {
         "type": "Polygon",
@@ -13864,7 +13864,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Алатау"
+        "mini_district_name": "Алатау"
       },
       "geometry": {
         "type": "Polygon",
@@ -13967,7 +13967,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "ЖК Меркур Град/ мкрн Думан"
+        "mini_district_name": "ЖК Меркур Град/ мкрн Думан"
       },
       "geometry": {
         "type": "Polygon",
@@ -14006,7 +14006,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Думан"
+        "mini_district_name": "Думан"
       },
       "geometry": {
         "type": "Polygon",
@@ -14165,7 +14165,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Бесагаш"
+        "mini_district_name": "Бесагаш"
       },
       "geometry": {
         "type": "Polygon",
@@ -14292,7 +14292,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Малая станица"
+        "mini_district_name": "Малая станица"
       },
       "geometry": {
         "type": "Polygon",
@@ -14571,7 +14571,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Атырау"
+        "mini_district_name": "Атырау"
       },
       "geometry": {
         "type": "Polygon",
@@ -14698,7 +14698,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Халык Арена"
+        "mini_district_name": "Халык Арена"
       },
       "geometry": {
         "type": "Polygon",
@@ -14749,7 +14749,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "выезд на Талгар"
+        "mini_district_name": "выезд на Талгар"
       },
       "geometry": {
         "type": "Polygon",
@@ -14784,7 +14784,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Кульжинский тракт выезд"
+        "mini_district_name": "Кульжинский тракт выезд"
       },
       "geometry": {
         "type": "Polygon",
@@ -14847,7 +14847,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Астана"
+        "mini_district_name": "Астана"
       },
       "geometry": {
         "type": "Polygon",
@@ -14950,7 +14950,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Куаныш"
+        "mini_district_name": "Куаныш"
       },
       "geometry": {
         "type": "Polygon",
@@ -15073,7 +15073,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Таугуль"
+        "mini_district_name": "Таугуль"
       },
       "geometry": {
         "type": "Polygon",
@@ -15148,7 +15148,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Атамекен"
+        "mini_district_name": "Атамекен"
       },
       "geometry": {
         "type": "Polygon",
@@ -15223,7 +15223,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Алмас"
+        "mini_district_name": "Алмас"
       },
       "geometry": {
         "type": "Polygon",
@@ -15302,7 +15302,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Жазира"
+        "mini_district_name": "Жазира"
       },
       "geometry": {
         "type": "Polygon",
@@ -15357,7 +15357,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Шабыт"
+        "mini_district_name": "Шабыт"
       },
       "geometry": {
         "type": "Polygon",
@@ -15432,7 +15432,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Мамыр"
+        "mini_district_name": "Мамыр"
       },
       "geometry": {
         "type": "Polygon",
@@ -15623,7 +15623,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Жана Коктобе"
+        "mini_district_name": "Жана Коктобе"
       },
       "geometry": {
         "type": "Polygon",
@@ -15698,7 +15698,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Татарка"
+        "mini_district_name": "Татарка"
       },
       "geometry": {
         "type": "Polygon",
@@ -15861,7 +15861,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Частный сектор ниже парка Горького"
+        "mini_district_name": "Частный сектор ниже парка Горького"
       },
       "geometry": {
         "type": "Polygon",
@@ -16052,7 +16052,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Квадрат": "Центральный парк культуры и отдыха г. Алматы"
+        "mini_district_name": "Центральный парк культуры и отдыха г. Алматы"
       },
       "geometry": {
         "type": "Polygon",
@@ -16349,7 +16349,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Квадрат ": "Центральной мечети"
+        "mini_district_name": "Центральной мечети"
       },
       "geometry": {
         "type": "Polygon",
@@ -16404,7 +16404,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "ж/д Алматы 2"
+        "mini_district_name": "ж/д Алматы 2"
       },
       "geometry": {
         "type": "Polygon",
@@ -16455,7 +16455,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Квадрат": "Сейфуллина-Рыскулова-Суюнбая-Ташкентская"
+        "mini_district_name": "Сейфуллина-Рыскулова-Суюнбая-Ташкентская"
       },
       "geometry": {
         "type": "Polygon",
@@ -16582,7 +16582,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Магнум (Рыскулова-Суюнбая)"
+        "mini_district_name": "Магнум (Рыскулова-Суюнбая)"
       },
       "geometry": {
         "type": "Polygon",
@@ -16729,7 +16729,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Баянаульская-Суюнбая"
+        "mini_district_name": "Баянаульская-Суюнбая"
       },
       "geometry": {
         "type": "Polygon",
@@ -16828,7 +16828,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Торговый комплекс Мерей"
+        "mini_district_name": "Торговый комплекс Мерей"
       },
       "geometry": {
         "type": "Polygon",
@@ -16977,7 +16977,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Зеленый базар"
+        "mini_district_name": "Зеленый базар"
       },
       "geometry": {
         "type": "Polygon",
@@ -17024,7 +17024,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Парк 28 Панфиловцев"
+        "mini_district_name": "Парк 28 Панфиловцев"
       },
       "geometry": {
         "type": "Polygon",
@@ -17161,7 +17161,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Квадрат ": "Арбат (Дзержинского-Макатаева-Валиханова-Гоголя) "
+        "mini_district_name": "Арбат (Дзержинского-Макатаева-Валиханова-Гоголя) "
       },
       "geometry": {
         "type": "Polygon",
@@ -17220,7 +17220,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Мега (Сейфуллина-Макатаева)"
+        "mini_district_name": "Мега (Сейфуллина-Макатаева)"
       },
       "geometry": {
         "type": "Polygon",
@@ -17287,7 +17287,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Старая площадь/Арасан"
+        "mini_district_name": "Старая площадь/Арасан"
       },
       "geometry": {
         "type": "Polygon",
@@ -17334,7 +17334,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Наурызбай Батыра-Макатаева-Байтурсынова-Толе би"
+        "mini_district_name": "Наурызбай Батыра-Макатаева-Байтурсынова-Толе би"
       },
       "geometry": {
         "type": "Polygon",
@@ -17377,7 +17377,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Сейфуллина-Рыскулова"
+        "mini_district_name": "Сейфуллина-Рыскулова"
       },
       "geometry": {
         "type": "Polygon",
@@ -17520,7 +17520,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Квадрат": "Полежаева-Райымбека-Сейфуллина"
+        "mini_district_name": "Полежаева-Райымбека-Сейфуллина"
       },
       "geometry": {
         "type": "Polygon",
@@ -17607,7 +17607,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Квадрат ": "Рабочий поселок (Рыскулова-Кудерина-Ташкентская)"
+        "mini_district_name": "Рабочий поселок (Рыскулова-Кудерина-Ташкентская)"
       },
       "geometry": {
         "type": "Polygon",
@@ -17734,7 +17734,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Аккент (в сторону Апорта)"
+        "mini_district_name": "Аккент (в сторону Апорта)"
       },
       "geometry": {
         "type": "Polygon",
@@ -17825,7 +17825,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Пусто 1"
+        "mini_district_name": "Пусто 1"
       },
       "geometry": {
         "type": "Polygon",
@@ -17888,7 +17888,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Пусто 2"
+        "mini_district_name": "Пусто 2"
       },
       "geometry": {
         "type": "Polygon",
@@ -17943,7 +17943,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Алгабас"
+        "mini_district_name": "Алгабас"
       },
       "geometry": {
         "type": "Polygon",
@@ -18038,7 +18038,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Теректы (перед Апортом)"
+        "mini_district_name": "Теректы (перед Апортом)"
       },
       "geometry": {
         "type": "Polygon",
@@ -18213,7 +18213,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Тау Самалы"
+        "mini_district_name": "Тау Самалы"
       },
       "geometry": {
         "type": "Polygon",
@@ -18904,7 +18904,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "7я и 1я Городские больницы"
+        "mini_district_name": "7я и 1я Городские больницы"
       },
       "geometry": {
         "type": "Polygon",
@@ -18955,7 +18955,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Бурундайское кладбище"
+        "mini_district_name": "Бурундайское кладбище"
       },
       "geometry": {
         "type": "Polygon",
@@ -19238,7 +19238,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "за Алгабасом"
+        "mini_district_name": "за Алгабасом"
       },
       "geometry": {
         "type": "Polygon",
@@ -19913,7 +19913,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Сайран"
+        "mini_district_name": "Сайран"
       },
       "geometry": {
         "type": "Polygon",
@@ -20072,7 +20072,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Апорт/Алтын Орда"
+        "mini_district_name": "Апорт/Алтын Орда"
       },
       "geometry": {
         "type": "Polygon",
@@ -20179,7 +20179,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Коксай"
+        "mini_district_name": "Коксай"
       },
       "geometry": {
         "type": "Polygon",
@@ -20582,7 +20582,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "выезд Алтын Орда/слева"
+        "mini_district_name": "выезд Алтын Орда/слева"
       },
       "geometry": {
         "type": "Polygon",
@@ -20785,7 +20785,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Абай"
+        "mini_district_name": "Абай"
       },
       "geometry": {
         "type": "Polygon",
@@ -21008,7 +21008,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Шугыла за Калкаманом"
+        "mini_district_name": "Шугыла за Калкаманом"
       },
       "geometry": {
         "type": "Polygon",
@@ -21199,7 +21199,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Акжар"
+        "mini_district_name": "Акжар"
       },
       "geometry": {
         "type": "Polygon",
@@ -21438,7 +21438,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Дальний Таугуль"
+        "mini_district_name": "Дальний Таугуль"
       },
       "geometry": {
         "type": "Polygon",
@@ -21801,7 +21801,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "парк Первого президента "
+        "mini_district_name": "парк Первого президента "
       },
       "geometry": {
         "type": "Polygon",
@@ -22136,7 +22136,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Мирас"
+        "mini_district_name": "Мирас"
       },
       "geometry": {
         "type": "Polygon",
@@ -22307,7 +22307,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Рахат"
+        "mini_district_name": "Рахат"
       },
       "geometry": {
         "type": "Polygon",
@@ -22478,7 +22478,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Каргалы"
+        "mini_district_name": "Каргалы"
       },
       "geometry": {
         "type": "Polygon",
@@ -22565,7 +22565,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Алма-Арасан"
+        "mini_district_name": "Алма-Арасан"
       },
       "geometry": {
         "type": "Polygon",
@@ -22720,7 +22720,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Казахфильм"
+        "mini_district_name": "Казахфильм"
       },
       "geometry": {
         "type": "Polygon",
@@ -22839,7 +22839,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Алатау"
+        "mini_district_name": "Алатау"
       },
       "geometry": {
         "type": "Polygon",
@@ -23006,7 +23006,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Баганашыл"
+        "mini_district_name": "Баганашыл"
       },
       "geometry": {
         "type": "Polygon",
@@ -23141,7 +23141,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Эдельвейс"
+        "mini_district_name": "Эдельвейс"
       },
       "geometry": {
         "type": "Polygon",
@@ -23176,7 +23176,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Весновка"
+        "mini_district_name": "Весновка"
       },
       "geometry": {
         "type": "Polygon",
@@ -23279,7 +23279,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Аскартау"
+        "mini_district_name": "Аскартау"
       },
       "geometry": {
         "type": "Polygon",
@@ -23342,7 +23342,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Ерменсай"
+        "mini_district_name": "Ерменсай"
       },
       "geometry": {
         "type": "Polygon",
@@ -23449,7 +23449,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "р-н Esentai City"
+        "mini_district_name": "р-н Esentai City"
       },
       "geometry": {
         "type": "Polygon",
@@ -23556,7 +23556,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Весновка выше Есентая"
+        "mini_district_name": "Весновка выше Есентая"
       },
       "geometry": {
         "type": "Polygon",
@@ -23639,7 +23639,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Аль-Фараби/Горный Гигант"
+        "mini_district_name": "Аль-Фараби/Горный Гигант"
       },
       "geometry": {
         "type": "Polygon",
@@ -23714,7 +23714,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Горный Гигант"
+        "mini_district_name": "Горный Гигант"
       },
       "geometry": {
         "type": "Polygon",
@@ -23913,7 +23913,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Тау Самалы"
+        "mini_district_name": "Тау Самалы"
       },
       "geometry": {
         "type": "Polygon",
@@ -24000,7 +24000,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Royal Tulip"
+        "mini_district_name": "Royal Tulip"
       },
       "geometry": {
         "type": "Polygon",
@@ -24123,7 +24123,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Актобе"
+        "mini_district_name": "Актобе"
       },
       "geometry": {
         "type": "Polygon",
@@ -24238,7 +24238,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Каменское Плато"
+        "mini_district_name": "Каменское Плато"
       },
       "geometry": {
         "type": "Polygon",
@@ -24409,7 +24409,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Барахолка"
+        "mini_district_name": "Барахолка"
       },
       "geometry": {
         "type": "Polygon",
@@ -24604,7 +24604,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Аэродромная за Барахолкой"
+        "mini_district_name": "Аэродромная за Барахолкой"
       },
       "geometry": {
         "type": "Polygon",
@@ -24875,7 +24875,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Акимат г. Алматы"
+        "mini_district_name": "Акимат г. Алматы"
       },
       "geometry": {
         "type": "Polygon",
@@ -24942,7 +24942,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "БЦ Нурлы Тау"
+        "mini_district_name": "БЦ Нурлы Тау"
       },
       "geometry": {
         "type": "Polygon",
@@ -25001,7 +25001,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Сейфуллина-Аль-фараби"
+        "mini_district_name": "Сейфуллина-Аль-фараби"
       },
       "geometry": {
         "type": "Polygon",
@@ -25088,7 +25088,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Тимирязева-Сейфуллина-Аль-Фараби-Весновка"
+        "mini_district_name": "Тимирязева-Сейфуллина-Аль-Фараби-Весновка"
       },
       "geometry": {
         "type": "Polygon",
@@ -25171,7 +25171,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Бухар Жырау- Сатпаева-Сейфуллина-Тимирязева"
+        "mini_district_name": "Бухар Жырау- Сатпаева-Сейфуллина-Тимирязева"
       },
       "geometry": {
         "type": "Polygon",
@@ -25266,7 +25266,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Бухар Жырау Тауэрс"
+        "mini_district_name": "Бухар Жырау Тауэрс"
       },
       "geometry": {
         "type": "Polygon",
@@ -25321,7 +25321,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "ESENTAI MALL"
+        "mini_district_name": "ESENTAI MALL"
       },
       "geometry": {
         "type": "Polygon",
@@ -25368,7 +25368,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Казахский национальный университет им. Аль-Фараби"
+        "mini_district_name": "Казахский национальный университет им. Аль-Фараби"
       },
       "geometry": {
         "type": "Polygon",
@@ -25471,7 +25471,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Ботанический сад"
+        "mini_district_name": "Ботанический сад"
       },
       "geometry": {
         "type": "Polygon",
@@ -25582,7 +25582,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Ходжанова-Аль-Фараби"
+        "mini_district_name": "Ходжанова-Аль-Фараби"
       },
       "geometry": {
         "type": "Polygon",
@@ -25685,7 +25685,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Жарокова-Аль-Фараби-Ходжанова"
+        "mini_district_name": "Жарокова-Аль-Фараби-Ходжанова"
       },
       "geometry": {
         "type": "Polygon",
@@ -25804,7 +25804,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Mega на Розыбакиева"
+        "mini_district_name": "Mega на Розыбакиева"
       },
       "geometry": {
         "type": "Polygon",
@@ -25867,7 +25867,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Аль-Фараби-Розыбакиева"
+        "mini_district_name": "Аль-Фараби-Розыбакиева"
       },
       "geometry": {
         "type": "Polygon",
@@ -25998,7 +25998,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Левитана-Розыбакиева-Аль-Фараби-Жарокова"
+        "mini_district_name": "Левитана-Розыбакиева-Аль-Фараби-Жарокова"
       },
       "geometry": {
         "type": "Polygon",
@@ -26069,7 +26069,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Жарокова ниже Ходжанова"
+        "mini_district_name": "Жарокова ниже Ходжанова"
       },
       "geometry": {
         "type": "Polygon",
@@ -26156,7 +26156,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Утепова-Гагарина-Жарокова-Байкодамова"
+        "mini_district_name": "Утепова-Гагарина-Жарокова-Байкодамова"
       },
       "geometry": {
         "type": "Polygon",
@@ -26191,7 +26191,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Утепова-Гагарина-Байкадамова-Розыбакиева"
+        "mini_district_name": "Утепова-Гагарина-Байкадамова-Розыбакиева"
       },
       "geometry": {
         "type": "Polygon",
@@ -26238,7 +26238,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Магнум на Гагарина - Каблукова"
+        "mini_district_name": "Магнум на Гагарина - Каблукова"
       },
       "geometry": {
         "type": "Polygon",
@@ -26329,7 +26329,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Утепова-Розыбакиева-Ескараева -Каблукова"
+        "mini_district_name": "Утепова-Розыбакиева-Ескараева -Каблукова"
       },
       "geometry": {
         "type": "Polygon",
@@ -26412,7 +26412,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Аэродромная - Рыскулова-Ташкентская"
+        "mini_district_name": "Аэродромная - Рыскулова-Ташкентская"
       },
       "geometry": {
         "type": "Polygon",
@@ -26559,7 +26559,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Байтурсынова - Макатаева-Муканова-Толе би"
+        "mini_district_name": "Байтурсынова - Макатаева-Муканова-Толе би"
       },
       "geometry": {
         "type": "Polygon",
@@ -26646,7 +26646,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Ауэзова-Гоголя"
+        "mini_district_name": "Ауэзова-Гоголя"
       },
       "geometry": {
         "type": "Polygon",
@@ -26783,7 +26783,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Алтын Булак"
+        "mini_district_name": "Алтын Булак"
       },
       "geometry": {
         "type": "Polygon",
@@ -26834,7 +26834,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "выше Толе би (р-н Тастак 1)"
+        "mini_district_name": "выше Толе би (р-н Тастак 1)"
       },
       "geometry": {
         "type": "Polygon",
@@ -26885,7 +26885,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "ЖК Каусар(Сайран)"
+        "mini_district_name": "ЖК Каусар(Сайран)"
       },
       "geometry": {
         "type": "Polygon",
@@ -26932,7 +26932,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Толе Би - Туркебаева - Розыбакиева - Карасай батыра (выше Тастак 3)"
+        "mini_district_name": "Толе Би - Туркебаева - Розыбакиева - Карасай батыра (выше Тастак 3)"
       },
       "geometry": {
         "type": "Polygon",
@@ -26999,7 +26999,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Толе би-Розыбакиева-Жамбыла-Гагарина"
+        "mini_district_name": "Толе би-Розыбакиева-Жамбыла-Гагарина"
       },
       "geometry": {
         "type": "Polygon",
@@ -27034,7 +27034,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Толе би-Гагарина-Жамбыла-Жарокова"
+        "mini_district_name": "Толе би-Гагарина-Жамбыла-Жарокова"
       },
       "geometry": {
         "type": "Polygon",
@@ -27069,7 +27069,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Толе би - Ауэзова-Жамбыла-Жарокова"
+        "mini_district_name": "Толе би - Ауэзова-Жамбыла-Жарокова"
       },
       "geometry": {
         "type": "Polygon",
@@ -27390,7 +27390,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "р-н Тургут Озала (выше Тастака)"
+        "mini_district_name": "р-н Тургут Озала (выше Тастака)"
       },
       "geometry": {
         "type": "Polygon",
@@ -27633,7 +27633,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Жамбыла-Ауэзова-Абая-Гагарина"
+        "mini_district_name": "Жамбыла-Ауэзова-Абая-Гагарина"
       },
       "geometry": {
         "type": "Polygon",
@@ -27672,7 +27672,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": " театр драмы им. М. Ауэзова"
+        "mini_district_name": " театр драмы им. М. Ауэзова"
       },
       "geometry": {
         "type": "Polygon",
@@ -27727,7 +27727,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Жамбыла- Ауэзова-Байзакова- Абая"
+        "mini_district_name": "Жамбыла- Ауэзова-Байзакова- Абая"
       },
       "geometry": {
         "type": "Polygon",
@@ -28004,7 +28004,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Центральный стадион"
+        "mini_district_name": "Центральный стадион"
       },
       "geometry": {
         "type": "Polygon",
@@ -28051,7 +28051,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "БЦ Almaty Towers"
+        "mini_district_name": "БЦ Almaty Towers"
       },
       "geometry": {
         "type": "Polygon",
@@ -28558,7 +28558,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "АДК"
+        "mini_district_name": "АДК"
       },
       "geometry": {
         "type": "Polygon",
@@ -29321,7 +29321,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Бпйкодамова-Гагарина-Ходжанова-Жарокова"
+        "mini_district_name": "Бпйкодамова-Гагарина-Ходжанова-Жарокова"
       },
       "geometry": {
         "type": "Polygon",
@@ -29410,7 +29410,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Атакент"
+        "mini_district_name": "Атакент"
       },
       "geometry": {
         "type": "Polygon",
@@ -29489,7 +29489,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "ТРЦ Алмалы"
+        "mini_district_name": "ТРЦ Алмалы"
       },
       "geometry": {
         "type": "Polygon",
@@ -29532,7 +29532,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Абая-Сейфуллина-Сатпаева-Байтурсынова"
+        "mini_district_name": "Абая-Сейфуллина-Сатпаева-Байтурсынова"
       },
       "geometry": {
         "type": "Polygon",
@@ -29575,7 +29575,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Абая- Сейфуллина-Желтоксана- Сатпаева"
+        "mini_district_name": "Абая- Сейфуллина-Желтоксана- Сатпаева"
       },
       "geometry": {
         "type": "Polygon",
@@ -29682,7 +29682,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Абая - Ленина (гостиница Казахстан)"
+        "mini_district_name": "Абая - Ленина (гостиница Казахстан)"
       },
       "geometry": {
         "type": "Polygon",
@@ -30135,7 +30135,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Компот"
+        "mini_district_name": "Компот"
       },
       "geometry": {
         "type": "Polygon",
@@ -30218,7 +30218,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "ВАОД (выше Толе би)"
+        "mini_district_name": "ВАОД (выше Толе би)"
       },
       "geometry": {
         "type": "Polygon",
@@ -30321,7 +30321,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Кок-Тобе"
+        "mini_district_name": "Кок-Тобе"
       },
       "geometry": {
         "type": "Polygon",
@@ -30376,7 +30376,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Кенсай"
+        "mini_district_name": "Кенсай"
       },
       "geometry": {
         "type": "Polygon",
@@ -30555,7 +30555,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "ВАОД (район Кок-Тобе)"
+        "mini_district_name": "ВАОД (район Кок-Тобе)"
       },
       "geometry": {
         "type": "Polygon",
@@ -30706,7 +30706,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Луганского ниже Аль-Фараби"
+        "mini_district_name": "Луганского ниже Аль-Фараби"
       },
       "geometry": {
         "type": "Polygon",
@@ -30873,7 +30873,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "ЖК Европолис"
+        "mini_district_name": "ЖК Европолис"
       },
       "geometry": {
         "type": "Polygon",
@@ -30908,7 +30908,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Фурманова - Хаджи Мукана - Ленина"
+        "mini_district_name": "Фурманова - Хаджи Мукана - Ленина"
       },
       "geometry": {
         "type": "Polygon",
@@ -31043,7 +31043,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Военная академия КНБ РК (Достык)"
+        "mini_district_name": "Военная академия КНБ РК (Достык)"
       },
       "geometry": {
         "type": "Polygon",
@@ -31130,7 +31130,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "ЖК Dostyk Residence"
+        "mini_district_name": "ЖК Dostyk Residence"
       },
       "geometry": {
         "type": "Polygon",
@@ -31193,7 +31193,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Нижняя часть поворота на Кок-Тобе (Луганского выше Аль-Фараби)"
+        "mini_district_name": "Нижняя часть поворота на Кок-Тобе (Луганского выше Аль-Фараби)"
       },
       "geometry": {
         "type": "Polygon",
@@ -31288,7 +31288,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Санаторий Казахстан, Теренкур"
+        "mini_district_name": "Санаторий Казахстан, Теренкур"
       },
       "geometry": {
         "type": "Polygon",
@@ -31419,7 +31419,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "ЖК ​Arman Ville (в сторону Медео)"
+        "mini_district_name": "ЖК ​Arman Ville (в сторону Медео)"
       },
       "geometry": {
         "type": "Polygon",
@@ -31612,7 +31612,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "объезд в сторону Медео за Достыком"
+        "mini_district_name": "объезд в сторону Медео за Достыком"
       },
       "geometry": {
         "type": "Polygon",
@@ -31767,7 +31767,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Бутаковка, ул. Горная"
+        "mini_district_name": "Бутаковка, ул. Горная"
       },
       "geometry": {
         "type": "Polygon",
@@ -31846,7 +31846,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "каток Медеу"
+        "mini_district_name": "каток Медеу"
       },
       "geometry": {
         "type": "Polygon",
@@ -31897,7 +31897,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "курорт Лесная Сказка"
+        "mini_district_name": "курорт Лесная Сказка"
       },
       "geometry": {
         "type": "Polygon",
@@ -31932,7 +31932,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Санаторий Ак Булак"
+        "mini_district_name": "Санаторий Ак Булак"
       },
       "geometry": {
         "type": "Polygon",
@@ -31967,7 +31967,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Табаган"
+        "mini_district_name": "Табаган"
       },
       "geometry": {
         "type": "Polygon",
@@ -32010,7 +32010,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Shymbulak, лыжная база"
+        "mini_district_name": "Shymbulak, лыжная база"
       },
       "geometry": {
         "type": "Polygon",
@@ -32045,7 +32045,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "поселок Калкаман"
+        "mini_district_name": "поселок Калкаман"
       },
       "geometry": {
         "type": "Polygon",
@@ -32124,7 +32124,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "поселок Киз"
+        "mini_district_name": "поселок Киз"
       },
       "geometry": {
         "type": "Polygon",
@@ -32179,7 +32179,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "поселок Абай"
+        "mini_district_name": "поселок Абай"
       },
       "geometry": {
         "type": "Polygon",
@@ -32362,7 +32362,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "поселок Булакты"
+        "mini_district_name": "поселок Булакты"
       },
       "geometry": {
         "type": "Polygon",
@@ -32433,7 +32433,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "поселок Райымбек"
+        "mini_district_name": "поселок Райымбек"
       },
       "geometry": {
         "type": "Polygon",
@@ -32484,7 +32484,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "поселок Жанатурмыс"
+        "mini_district_name": "поселок Жанатурмыс"
       },
       "geometry": {
         "type": "Polygon",
@@ -32571,7 +32571,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "поселок Кыргауылды"
+        "mini_district_name": "поселок Кыргауылды"
       },
       "geometry": {
         "type": "Polygon",
@@ -32662,7 +32662,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "Дачи \"ПК Аксай-19\" с. Райымбек"
+        "mini_district_name": "Дачи \"ПК Аксай-19\" с. Райымбек"
       },
       "geometry": {
         "type": "Polygon",
@@ -32753,7 +32753,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": " село КазЦик"
+        "mini_district_name": " село КазЦик"
       },
       "geometry": {
         "type": "Polygon",
@@ -32804,7 +32804,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "село Туздыбастау"
+        "mini_district_name": "село Туздыбастау"
       },
       "geometry": {
         "type": "Polygon",
@@ -32927,7 +32927,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "село Бельбулак"
+        "mini_district_name": "село Бельбулак"
       },
       "geometry": {
         "type": "Polygon",
@@ -32990,7 +32990,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "село имени Панфилова"
+        "mini_district_name": "село имени Панфилова"
       },
       "geometry": {
         "type": "Polygon",
@@ -33045,7 +33045,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "село Еркин ​"
+        "mini_district_name": "село Еркин ​"
       },
       "geometry": {
         "type": "Polygon",
@@ -33096,7 +33096,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "село Коктал"
+        "mini_district_name": "село Коктал"
       },
       "geometry": {
         "type": "Polygon",
@@ -33147,7 +33147,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "село Айганым/Ай-Абылай"
+        "mini_district_name": "село Айганым/Ай-Абылай"
       },
       "geometry": {
         "type": "Polygon",
@@ -33182,7 +33182,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "село Аркабай"
+        "mini_district_name": "село Аркабай"
       },
       "geometry": {
         "type": "Polygon",
@@ -33217,7 +33217,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн": "село Кызылту"
+        "mini_district_name": "село Кызылту"
       },
       "geometry": {
         "type": "Polygon",
