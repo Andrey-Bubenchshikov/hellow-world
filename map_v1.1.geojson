@@ -309,7 +309,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн ": "Таугуль 1"
+        "мкрн": "Таугуль 1"
       },
       "geometry": {
         "type": "Polygon",
@@ -3540,7 +3540,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн ": "Жетысу 4"
+        "мкрн": "Жетысу 4"
       },
       "geometry": {
         "type": "Polygon",
@@ -5054,7 +5054,7 @@
       "properties": {
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "мкрн ": "Баянаул (Райымбек за Саина)"
+        "мкрн": "Баянаул (Райымбек за Саина)"
       },
       "geometry": {
         "type": "Polygon",
