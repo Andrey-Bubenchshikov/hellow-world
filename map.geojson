@@ -3,15 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Орбита 4",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -74,15 +66,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Орбита 3",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -137,15 +121,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Орбита 2",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -204,15 +180,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Орбита 1",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -267,15 +235,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Таугуль 2",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -326,15 +286,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн ": "Таугуль 1",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -433,15 +385,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Таугуль",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -524,15 +468,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -599,15 +535,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Шахристана",
-        "сота ": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -646,14 +574,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Саина - Рыскулбекова - Мустафина - Торайгырова"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -692,15 +613,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -747,15 +660,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -826,14 +731,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": 9
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -908,14 +806,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": 10
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -978,14 +869,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": 8
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1088,14 +972,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": 7
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1182,14 +1059,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "10а"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1276,14 +1146,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": 12
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1386,14 +1249,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": 6
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1508,14 +1364,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": 11
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1610,14 +1459,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": 1
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1708,14 +1550,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": 2
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1814,14 +1649,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": 3
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1896,14 +1724,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": 4
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1974,14 +1795,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": 5
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2036,14 +1850,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Сайран"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2146,15 +1953,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Коктем1",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2273,14 +2072,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Коктем 2"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2339,15 +2131,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Коктем 3",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2438,14 +2222,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Алмагуль"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2520,14 +2297,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Таугуль 3"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2674,14 +2444,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Мамыр 1"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2720,14 +2483,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Мамыр 2"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2758,14 +2514,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Мамыр 3"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2832,14 +2581,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Мамыр 4"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2870,14 +2612,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Мамыр 5"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2920,14 +2655,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Мамыр 6"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3018,14 +2746,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Жетысу 2"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3183,14 +2904,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Жетысу 3"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3281,14 +2995,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Аксай 1"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3387,14 +3094,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Аксай 2"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3437,14 +3137,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Аксай 4"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3503,14 +3196,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Аксай 3"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3557,14 +3243,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Аксай 3а"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3615,14 +3294,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Мамыр 7"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3685,14 +3357,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн ": "Жетысу 4"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3743,14 +3408,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Аксай 5"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3801,14 +3459,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Аксай 3Б"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3851,14 +3502,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Дружба 1"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4013,14 +3657,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Дружба 2"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4091,14 +3728,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Дружба 3"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4197,14 +3827,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Тастак 1"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4307,14 +3930,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Тастак 3"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4405,14 +4021,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Тастак 1"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4543,14 +4152,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Тастак1/1"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4681,15 +4283,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Калкаман 2",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4796,15 +4390,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Калкаман 2/2",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4991,15 +4577,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Калкаман 2/1",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5170,15 +4748,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Алтын-Бесик (в сторону Апорта)",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5245,14 +4815,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн ": "Баянаул (Райымбек за Саина)"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5295,14 +4858,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Аксай 1а"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5349,14 +4905,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "рынок Барыс (оптовка)"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5395,14 +4944,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Розыбакиева -Толе би - Ауэзова - оптовка"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5437,14 +4979,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "склады около оптовки (Ауэзова)"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5487,14 +5022,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Самал 1"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5565,14 +5093,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Самал 2"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5786,15 +5307,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Керемет",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5909,15 +5422,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Зердели",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6016,15 +5521,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Акбулак",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6243,15 +5740,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Нуркет (Almaty Arena)",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6322,15 +5811,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Жулдыз 1",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6413,15 +5894,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Жулдыз 2",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6524,15 +5997,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Алтай 1",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6611,15 +6076,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Алтай 2",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6742,15 +6199,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат ": "Аэропорт",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6809,15 +6258,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Нуршашкан (аэропорт)",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6864,15 +6305,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Маяк",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6971,15 +6404,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат ": "ЧС ВАЗ правая сторона в сторону аэропорта",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7122,15 +6547,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "ЧС ВАЗовское кольцо левая сторона",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7309,15 +6726,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Жас Канат (Майлина)",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7412,15 +6821,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Айша-Биби",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7487,15 +6888,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Кайрат (Рыскулова-Кульжинка)",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7638,15 +7031,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Жана Кайрат (Кульжинка)",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7789,14 +7174,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "ЧС Шемякина - Суюнбая"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7931,14 +7309,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "ЧС (Суюнбая-Шемякина-Рыскулова)"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8045,15 +7416,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "село": "Гульдала",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8120,15 +7483,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "село": "Кызылту-1 /Альмерек",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8163,15 +7518,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "село": "Карасу 1 (ГРЭС)",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8214,15 +7561,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "село ": "Карасу 2",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8269,15 +7608,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Жана Куат/Отеген Батыра/ГРЭС",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8368,15 +7699,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "поселок": "Отеген Батыра/ ГРЭС",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8491,15 +7814,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Покровка (перед ГРЭС)",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8558,15 +7873,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Гагарино (перед Покровкой)",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8629,15 +7936,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "слева от Покровки (ГРЭС)",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8704,15 +8003,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Нижняя Пятилетка",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8839,15 +8130,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Верхняя Пятилетка",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -8986,15 +8269,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "ж/д Алматы 1",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9057,14 +8332,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат ": "стадион Алаш (низ города)"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9135,14 +8403,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Кулагер"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9205,15 +8466,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Ленинская Смена/Акан Серы",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9395,14 +8648,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Ленинская смена/Акан Серы верхняя часть"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9678,15 +8924,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "село Ынтымак",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9741,15 +8979,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "село Коянкус",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -9824,15 +9054,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10083,15 +9305,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Первомайка",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10178,14 +9392,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Айнабулак 1"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10236,14 +9443,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Айнабулак 2"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10306,14 +9506,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Айнабулак 4"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10404,14 +9597,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Айнабулак 3"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10546,14 +9732,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Сейфуллина ниже Рыскулова"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10684,14 +9863,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Белинского ниже Рыскулова"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10822,14 +9994,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат ": "Ипподром Кулагер"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10908,15 +10073,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Дархан",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11035,15 +10192,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Байбесик",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11246,15 +10395,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Карасу (низ)",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11337,14 +10478,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Белинского ниже ипподрома"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11431,14 +10565,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Бурундайская - Северное кольцо - выезд на Капчагай"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11581,15 +10708,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Ожет/Ужет",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11772,14 +10891,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Дорожник"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11886,14 +10998,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Шапагат (Барахолка)"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12048,14 +11153,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Улжан 2"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12230,15 +11328,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Улжан 1",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12585,14 +11675,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Курылысши "
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12643,14 +11726,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Самгау"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12717,15 +11793,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Саялы",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12928,15 +11996,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Томирис",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13607,15 +12667,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Кок-Кайнар",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13790,15 +12842,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Боролдай",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13941,15 +12985,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "поселок": "Боролдай",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14200,15 +13236,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Спецгородок",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14299,15 +13327,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Алатау",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14406,15 +13426,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "ЖК Меркур Град/ мкрн Думан",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14449,15 +13461,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Думан",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14612,15 +13616,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "село": "Бесагаш",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14743,14 +13739,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Малая станица"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15025,15 +14014,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Атырау",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15156,15 +14137,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Халык Арена",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15211,15 +14184,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "выезд на Талгар",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15250,15 +14215,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Кульжинский тракт выезд",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15317,14 +14274,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Астана"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15423,14 +14373,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Куаныш"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15549,14 +14492,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Таугуль"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15627,14 +14563,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Атамекен"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15705,14 +14634,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Алмас"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15787,14 +14709,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Жазира"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15845,14 +14760,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Шабыт"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15923,14 +14831,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Мамыр"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16117,15 +15018,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Жана Коктобе",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16196,14 +15089,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Татарка"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16362,14 +15248,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Частный сектор ниже парка Горького"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16556,14 +15435,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "Квадрат": "Центральный парк культуры и отдыха г. Алматы"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16853,14 +15725,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "Квадрат ": "Центральной мечети"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16911,14 +15776,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "ж/д Алматы 2"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16965,14 +15823,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "Квадрат": "Сейфуллина-Рыскулова-Суюнбая-Ташкентская"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -17095,14 +15946,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Магнум (Рыскулова-Суюнбая)"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -17245,14 +16089,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Баянаульская-Суюнбая"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -17347,14 +16184,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Торговый комплекс Мерей"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -17496,14 +16326,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Зеленый базар"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -17546,14 +16369,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Парк 28 Панфиловцев"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -17683,14 +16499,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "Квадрат ": "Арбат (Дзержинского-Макатаева-Валиханова-Гоголя) "
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -17745,14 +16554,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Мега (Сейфуллина-Макатаева)"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -17815,14 +16617,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Старая площадь/Арасан"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -17865,14 +16660,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Наурызбай Батыра-Макатаева-Байтурсынова-Толе би"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -17911,14 +16699,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Сейфуллина-Рыскулова"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -18057,14 +16838,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "Квадрат": "Полежаева-Райымбека-Сейфуллина"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -18147,14 +16921,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "Квадрат ": "Рабочий поселок (Рыскулова-Кудерина-Ташкентская)"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -18277,15 +17044,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Аккент (в сторону Апорта)",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -18372,15 +17131,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Пусто 1",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -18439,15 +17190,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Пусто 2",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -18498,15 +17241,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Алгабас",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -18597,15 +17332,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Теректы (перед Апортом)",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -18776,14 +17503,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Тау Самалы"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -19464,14 +18184,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "7я и 1я Городские больницы"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -19518,15 +18231,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат ": "Бурундайское кладбище",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -19805,14 +18510,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "за Алгабасом"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -19887,14 +18585,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -20478,14 +19169,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Сайран"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -20640,14 +19324,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Апорт/Алтын Орда"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -20750,15 +19427,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Коксай",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -21157,15 +19826,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "выезд Алтын Орда/слева",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -21364,15 +20025,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Абай",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -21591,15 +20244,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Шугыла за Калкаманом",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -21786,15 +20431,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Акжар",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -22029,15 +20666,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Дальний Таугуль",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -22396,15 +21025,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат ": "парк Первого президента ",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -22729,15 +21350,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Мирас",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -22904,15 +21517,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Рахат",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -23079,15 +21684,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Каргалы",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -23170,15 +21767,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Алма-Арасан",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -23329,14 +21918,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Казахфильм"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -23451,14 +22033,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Алатау"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -23621,14 +22196,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Баганашыл"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -23759,14 +22327,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Эдельвейс"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -23797,15 +22358,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Весновка",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -23904,15 +22457,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Аскартау",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -23971,15 +22516,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Ерменсай",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -24082,15 +22619,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "р-н Esentai City",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -24193,15 +22722,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Весновка выше Есентая",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -24280,14 +22801,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Аль-Фараби/Горный Гигант"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -24358,15 +22872,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Горный Гигант",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -24561,14 +23067,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Тау Самалы"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -24651,15 +23150,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Royal Tulip",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -24778,15 +23269,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Актобе",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -24897,15 +23380,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "мкрн": "Каменское Плато",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -25072,14 +23547,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Барахолка"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -25270,14 +23738,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Аэродромная за Барахолкой"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -25544,15 +24005,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Акимат г. Алматы",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -25615,15 +24068,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат ": "БЦ Нурлы Тау",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -25678,15 +24123,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Сейфуллина-Аль-фараби",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -25769,15 +24206,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Тимирязева-Сейфуллина-Аль-Фараби-Весновка",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -25856,15 +24285,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Бухар Жырау- Сатпаева-Сейфуллина-Тимирязева",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -25955,15 +24376,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Бухар Жырау Тауэрс",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -26014,15 +24427,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "ESENTAI MALL",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -26065,15 +24470,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Казахский национальный университет им. Аль-Фараби",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -26172,14 +24569,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат ": "Ботанический сад"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -26286,14 +24676,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Ходжанова-Аль-Фараби"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -26392,14 +24775,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Жарокова-Аль-Фараби-Ходжанова"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -26514,14 +24890,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Mega на Розыбакиева"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -26580,14 +24949,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Аль-Фараби-Розыбакиева"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -26714,14 +25076,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Левитана-Розыбакиева-Аль-Фараби-Жарокова"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -26788,14 +25143,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Жарокова ниже Ходжанова"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -26878,14 +25226,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Утепова-Гагарина-Жарокова-Байкодамова"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -26916,14 +25257,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Утепова-Гагарина-Байкадамова-Розыбакиева"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -26966,14 +25300,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Магнум на Гагарина - Каблукова"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -27060,14 +25387,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Утепова-Розыбакиева-Ескараева -Каблукова"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -27146,14 +25466,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Аэродромная - Рыскулова-Ташкентская"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -27296,14 +25609,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Байтурсынова - Макатаева-Муканова-Толе би"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -27386,14 +25692,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Ауэзова-Гоголя"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -27523,15 +25822,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Алтын Булак",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -27578,14 +25869,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "выше Толе би (р-н Тастак 1)"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -27632,15 +25916,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "ЖК Каусар(Сайран)",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -27683,15 +25959,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Толе Би - Туркебаева - Розыбакиева - Карасай батыра (выше Тастак 3)",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -27754,15 +26022,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Толе би-Розыбакиева-Жамбыла-Гагарина",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -27793,15 +26053,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Толе би-Гагарина-Жамбыла-Жарокова",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -27832,14 +26084,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Толе би - Ауэзова-Жамбыла-Жарокова"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -28023,15 +26268,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -28086,15 +26323,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -28157,15 +26386,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "р-н Тургут Озала (выше Тастака)",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -28339,13 +26560,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -28404,15 +26619,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Жамбыла-Ауэзова-Абая-Гагарина",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -28447,15 +26654,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": " театр драмы им. М. Ауэзова",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -28506,15 +26705,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Жамбыла- Ауэзова-Байзакова- Абая",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -28772,15 +26963,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Центральный стадион",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -28823,15 +27006,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат ": "БЦ Almaty Towers",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -29304,14 +27479,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "АДК"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -30022,14 +28190,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Бпйкодамова-Гагарина-Ходжанова-Жарокова"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -30111,14 +28272,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Атакент"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -30193,15 +28347,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "ТРЦ Алмалы",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -30240,15 +28386,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Абая-Сейфуллина-Сатпаева-Байтурсынова",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -30287,15 +28425,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Абая- Сейфуллина-Желтоксана- Сатпаева",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -30392,14 +28522,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Абая - Ленина (гостиница Казахстан)"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -30821,14 +28944,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Компот"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -30907,14 +29023,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "ВАОД (выше Толе би)"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -31013,14 +29122,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Кок-Тобе"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -31071,15 +29173,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Кенсай",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -31254,14 +29348,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "ВАОД (район Кок-Тобе)"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -31408,14 +29495,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Луганского ниже Аль-Фараби"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -31578,14 +29658,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "ЖК Европолис"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -31616,15 +29689,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Фурманова - Хаджи Мукана - Ленина",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -31755,14 +29820,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Военная академия КНБ РК (Достык)"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -31845,14 +29903,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "ЖК Dostyk Residence"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -31911,14 +29962,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Нижняя часть поворота на Кок-Тобе (Луганского выше Аль-Фараби)"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -32009,14 +30053,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Санаторий Казахстан, Теренкур"
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -32143,15 +30180,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "ЖК ​Arman Ville (в сторону Медео)",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -32210,14 +30239,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -32344,15 +30366,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "объезд в сторону Медео за Достыком",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -32503,15 +30517,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Бутаковка, ул. Горная",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -32586,15 +30592,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "каток Медеу",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -32641,15 +30639,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "курорт Лесная Сказка",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -32680,15 +30670,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Санаторий Ак Булак",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -32719,15 +30701,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Табаган",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -32766,15 +30740,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Shymbulak, лыжная база",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -32805,15 +30771,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "поселок Калкаман",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -32888,15 +30846,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "поселок Киз",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -32947,15 +30897,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "поселок Абай",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -33134,15 +31076,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "поселок Булакты",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -33209,15 +31143,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "поселок Райымбек",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -33264,15 +31190,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "поселок Жанатурмыс",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -33355,15 +31273,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "поселок Кыргауылды",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -33450,15 +31360,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "Дачи \"ПК Аксай-19\" с. Райымбек",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -33545,15 +31447,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": " село КазЦик",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -33600,15 +31494,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "село Туздыбастау",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -33727,15 +31613,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "село Бельбулак",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -33794,15 +31672,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "село имени Панфилова",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -33853,15 +31723,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "село Еркин ​",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -33908,15 +31770,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "село Коктал",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -33963,15 +31817,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "село Айганым/Ай-Абылай",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -34002,15 +31848,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "село Аркабай",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -34041,15 +31879,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "квадрат": "село Кызылту",
-        "сота": ""
-      },
+      "properties": {},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
